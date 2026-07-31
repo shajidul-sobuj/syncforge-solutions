@@ -3,14 +3,14 @@
 Welcome to my personal CP solution vault! This repository contains all my Accepted submissions automatically synced across various platforms.
 
 ## 📊 Statistics
-- **Total Solved:** 9
+- **Total Solved:** 10
 
 ## 🚀 Recent Solves
+- **Codeforces:** `Bigrams` ✅
 - **Codeforces:** `GCD_Compression` ✅
 - **Codeforces:** `GCD_Compression` ✅
 - **Codeforces:** `String_Task` ✅
 - **Codeforces:** `Sum_of_Round_Numbers` ✅
-- **Codeforces:** `Important_Exam` ✅
 
 ---
 *Synced automatically via [SyncForge](https://syncforge.vercel.app) - The Ultimate CP Tracker*
