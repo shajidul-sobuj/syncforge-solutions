@@ -3,12 +3,12 @@
  * 
  * Problem: 1370B - GCD_Compression
  * Link: https://codeforces.com/contest/1370/problem/B
- * Submission ID: 384519312
+ * Submission ID: 384918632
  * Language: C++23 (GCC 14-64, msys2)
  * Execution Time: 46 ms | Memory: 100 KB
  * Verdict: OK
  * Rating: 1100 | Tags: constructive algorithms, math, number theory
- * Submitted At: Mon, 27 Jul 2026 13:36:10 GMT
+ * Submitted At: Thu, 30 Jul 2026 18:53:33 GMT
  */
 
 #include <bits/stdc++.h>
