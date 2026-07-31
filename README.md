@@ -3,9 +3,10 @@
 Welcome to my personal CP solution vault! This repository contains all my Accepted submissions automatically synced across various platforms.
 
 ## 📊 Statistics
-- **Total Solved:** 2
+- **Total Solved:** 3
 
 ## 🚀 Recent Solves
+- **Codeforces:** `Taxi` ✅
 - **Codeforces:** `Team` ✅
 - **Codeforces:** `Watermelon` ✅
 
