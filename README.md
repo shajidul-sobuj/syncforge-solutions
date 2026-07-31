@@ -1,16 +1,33 @@
-# 🏆 Competitive Programming Vault
+<div align="center">
 
-Welcome to my personal CP solution vault! This repository contains all my Accepted submissions automatically synced across various platforms.
+# 🍱 The Algo Bento
 
-## 📊 Statistics
-- **Total Solved:** 128
+<i>An aesthetically organized vault of my Competitive Programming journey.</i>
 
-## 🚀 Recent Solves
-- **Codeforces:** `Square_` ✅
-- **Codeforces:** `Watering_System` ✅
-- **Codeforces:** `Chess_Placing` ✅
-- **Codeforces:** `Students_in_Railway_Carriage` ✅
-- **Codeforces:** `Bigrams` ✅
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📈 Overall Progress</h3>
+      <h1>129</h1>
+      <p>Problems Solved</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔥 Code Mastery</h3>
+      <p>Continuously pushing limits across platforms like Codeforces, LeetCode, and AtCoder.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🚀 Recent Submissions</h3>
+      <ul>
+        <li><b>Codeforces:</b> <code>farmpiggie_and_Subset_Sum</code></li>
+        <li><b>Codeforces:</b> <code>Square_</code></li>
+        <li><b>Codeforces:</b> <code>Watering_System</code></li>
+        <li><b>Codeforces:</b> <code>Chess_Placing</code></li>
+        <li><b>Codeforces:</b> <code>Students_in_Railway_Carriage</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
-*Synced automatically via [SyncForge](https://syncforge.vercel.app) - The Ultimate CP Tracker*
+</div>
