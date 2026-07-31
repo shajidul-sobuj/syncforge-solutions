@@ -3,13 +3,13 @@
 Welcome to my personal CP solution vault! This repository contains all my Accepted submissions automatically synced across various platforms.
 
 ## 📊 Statistics
-- **Total Solved:** 126
+- **Total Solved:** 127
 
 ## 🚀 Recent Solves
+- **Codeforces:** `Watering_System` ✅
 - **Codeforces:** `Chess_Placing` ✅
 - **Codeforces:** `Students_in_Railway_Carriage` ✅
 - **Codeforces:** `Bigrams` ✅
-- **LeetCode:** `LeetCode_Historical_3` ✅
 - **LeetCode:** `LeetCode_Historical_3` ✅
 
 ---
