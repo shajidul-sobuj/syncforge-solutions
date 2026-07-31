@@ -3,14 +3,14 @@
 Welcome to my personal CP solution vault! This repository contains all my Accepted submissions automatically synced across various platforms.
 
 ## 📊 Statistics
-- **Total Solved:** 33
+- **Total Solved:** 36
 
 ## 🚀 Recent Solves
+- **Codeforces:** `Way_Too_Long_Words` ✅
+- **Codeforces:** `Students_in_Railway_Carriage` ✅
+- **Codeforces:** `farmpiggie_and_Subset_Sum` ✅
 - **Codeforces:** `Bigrams` ✅
 - **Codeforces:** `Square_` ✅
-- **Codeforces:** `Petya_and_Strings` ✅
-- **Codeforces:** `Team` ✅
-- **Codeforces:** `ezraft_and_Array` ✅
 
 ---
 *Synced automatically via [SyncForge](https://syncforge.vercel.app) - The Ultimate CP Tracker*
