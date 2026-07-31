@@ -8,7 +8,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>📈 Overall Progress</h3>
-      <h1>179</h1>
+      <h1>180</h1>
       <p>Problems Solved</p>
     </td>
     <td align="center" width="50%">
@@ -20,11 +20,11 @@
     <td colspan="2">
       <h3 align="center">🚀 Recent Submissions</h3>
       <ul>
+        <li><b>Codeforces:</b> <code>Team</code></li>
         <li><b>Codeforces:</b> <code>Square_</code></li>
         <li><b>Codeforces:</b> <code>Way_Too_Long_Words</code></li>
         <li><b>Codeforces:</b> <code>Watermelon</code></li>
         <li><b>Codeforces:</b> <code>Chat_room</code></li>
-        <li><b>Codeforces:</b> <code>Chess_Placing</code></li>
       </ul>
     </td>
   </tr>
