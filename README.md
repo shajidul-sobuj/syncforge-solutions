@@ -3,13 +3,13 @@
 Welcome to my personal CP solution vault! This repository contains all my Accepted submissions automatically synced across various platforms.
 
 ## 📊 Statistics
-- **Total Solved:** 122
+- **Total Solved:** 123
 
 ## 🚀 Recent Solves
 - **LeetCode:** `LeetCode_Historical_3` ✅
+- **LeetCode:** `LeetCode_Historical_3` ✅
 - **LeetCode:** `LeetCode_Historical_2` ✅
 - **LeetCode:** `LeetCode_Historical_2` ✅
-- **LeetCode:** `LeetCode_Historical_1` ✅
 - **LeetCode:** `LeetCode_Historical_1` ✅
 
 ---
