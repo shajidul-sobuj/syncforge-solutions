@@ -3,39 +3,34 @@
  * 
  * Problem: 231A - Team
  * Link: https://codeforces.com/contest/231/problem/A
- * Submission ID: 383451531
+ * Submission ID: 382073081
  * Language: C++23 (GCC 14-64, msys2)
- * Execution Time: 62 ms | Memory: 100 KB
+ * Execution Time: 62 ms | Memory: N/A
  * Verdict: OK
  * Rating: 800 | Tags: brute force, greedy
- * Submitted At: Sun, 19 Jul 2026 10:04:32 GMT
+ * Submitted At: Sat, 11 Jul 2026 05:58:22 GMT
  */
 
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
 #define endl &#39;\n&#39;
-// cont int N = 1e5;
 
-
-
-void boom(){
-
+void boom()
+{
     int n; cin >> n;
-    int sum = 0;
+    vector<vector<int>> a(n, vector<int>(3,0));
+    int ans = 0;
     for (int i=0;i<n;i++){
-        int x,y,z; cin >> x >> y >> z;
-        int t = (x+y+z);
-        if(t>=2) sum++;
+        cin >> a[i][0] >> a[i][1] >> a[i][2];
+
+        int sum = (a[i][0]+a[i][1]+a[i][2]);
+        if (sum >= 2) ans++;
     }
-    cout << sum << endl;
+    cout << ans << endl;
 
-     
+
 }
-
-
-
-
 
 int main() {
     ios_base::sync_with_stdio(false);
@@ -43,6 +38,6 @@ int main() {
 
     int t = 1;
     // cin >> t;
-    while(t--)boom();
+    while(t--) boom();
     return 0;
 }
