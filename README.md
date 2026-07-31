@@ -8,7 +8,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>📈 Overall Progress</h3>
-      <h1>219</h1>
+      <h1>220</h1>
       <p>Problems Solved</p>
     </td>
     <td align="center" width="50%">
